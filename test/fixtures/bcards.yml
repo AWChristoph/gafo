@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  bname: MyString
+  bdate: 2015-02-22
+  last_gift: MyString
+  wishes: MyString
+  user_id: 
+
+two:
+  bname: MyString
+  bdate: 2015-02-22
+  last_gift: MyString
+  wishes: MyString
+  user_id: 
